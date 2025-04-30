@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Hamza<br>I'm an 18 y.o. student at Macquarie University, studying Software Engineering.<br><br>🔧 Tech I'm into<br>Learning: Python, JavaScript, C<br><br>Tools I use: VS Code, LeetCode, Google (a lot)<br><br>Exploring: Full Stack Development<br><br>🛠️ Projects<br>A simple Calculator<br>A clean To-Do List App<br>More coming soon...<br><br>🚀 Goals<br>I’m working toward becoming a software engineer at a startup, where I can build real stuff that people use.<br>
+👋 Hey, I'm Hamza<br>I'm an 18 y.o. student at Macquarie University, studying Software Engineering.<br><br>🔧 Tech I'm into<br>Learning: Python, JavaScript, C<br><br>Tools I use: VS Code, LeetCode, Google (a lot)<br><br>Exploring: Full Stack Development<br><br>🛠️ Projects<br>A simple Calculator<br>A clean To-Do List App<br>Game Adaptations<b>More coming soon...<br><br>🚀 Goals<br>I’m working toward becoming a software engineer at a startup, where I can build real stuff that people use.<br>
 
 
 # 💻 Tech Stack:
